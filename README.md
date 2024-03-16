@@ -1,4 +1,8 @@
-# create-svelte
+# Portfolio Page Current work in Progress
+
+This is the furture portfolio page for resumes. I will be updating the page with projects as they are completed.
+
+## create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
