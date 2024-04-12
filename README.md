@@ -1,6 +1,6 @@
-# Portfolio Page Current work in Progress
+# Working with Svelte
 
-This is the furture portfolio page for resumes. I will be updating the page with projects as they are completed.
+This is a Portfolio page to work with Svelte. This is the first project with Svelte and still learning Svelte Framework.
 
 ## create-svelte
 
